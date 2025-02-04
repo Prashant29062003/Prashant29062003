@@ -1,4 +1,4 @@
-# Hi, I'm**Prashant Kumar**!
+# Hi, I'm **Prashant Kumar**!
 
 A passionate software engineer with a focus on Web Development and Data Science. Eager to learn and contribute to innovative projects.
 
