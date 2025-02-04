@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Prashant29062003/Prashant29062003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prashant Kumar**
 
-Here are some ideas to get you started:
+A passionate software engineer with a focus on Web Development and Data Science. Eager to learn and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+
+* **Programming Languages:** Python, JavaScript, C++
+* **Frameworks/Libraries:** React, Node.js, Express.js
+* **Tools:** Git
+* **Databases:** MySQL, MongoDB
+
+**Projects**
+
+* **[Bhojan-del App](https://bhojan-del.netlify.app/)** - A food delivery web application built with React, Node.js, and MongoDB.
+
+**Interests**
+
+* Web Development
+* Machine Learning
+* Artificial Intelligence
+* Exploring new technologies
+
+**Contact**
+
+* prashantkumar6425@gmail.com
+
+**Portfolio:** [Prashant's Portfolio](https://portfolio-prashant29062003.netlify.app/)
