@@ -27,3 +27,5 @@ A passionate software engineer with a focus on Web Development and Data Science.
 * prashantkumar6425@gmail.com
 
 **Portfolio:** [Prashant's Portfolio](https://portfolio-prashant29062003.netlify.app/)
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant29062003&count_private=true&show_icons=true&theme=algolia&hide_rank=false)
